@@ -1,0 +1,198 @@
+html{
+}
+
+body{
+
+   /* font-family: 'Handlee', cursive;*/
+    font-family: 'Montserrat', sans-serif;
+  
+}
+
+
+h1,h2,h3,h4,h5,h6{
+
+    font-family: 'Roboto', sans-serif;
+
+
+
+}
+
+header{
+
+    background: url("images/cover.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar{
+
+    padding: 1% 10%;
+
+    background-color: rgba(0,0,0,0.3);
+}
+
+.navbar-nav {
+    font-size: 1.5rem;
+}
+.navbar-icon{
+
+    color: white;
+}
+
+.navbar-brand img{
+
+    width : 100px;
+    height: auto;
+}
+
+.nav-link{
+
+    color: blue;
+    margin: 10px;
+    border-radius: 5px;
+    transition: .4s;
+}
+
+.nav-link:hover{
+
+   background: #2980b9;
+   color:  blue;
+   transform: scale(1.1);
+}
+    
+.banner-container{
+
+    height: 100vh;
+}
+
+.banner-container h1{
+
+    font-size: 3.2rem;
+    background-color: rgb((0,0,128));
+    padding: 10px 20px;
+    font-family: 'Handlee', cursive;
+
+    border-radius: 5px;
+
+}
+
+#my_sayings p{
+
+    font-size: 1.8rem;
+    background-color: rgb((0,0,128));
+    padding: 10px 20px;
+    font-family: 'Handlee', cursive;
+
+    border-radius: 5px;
+
+
+}
+#demo p{
+
+    font-size: 1.8rem;
+    background-color: rgb((0,0,128));
+    padding: 10px 20px;
+    font-family: 'Handlee', cursive;
+    border-radius: 5px;
+
+}
+#Bold_about_me h3{
+    font-size: 1.8rem;
+    background-color: rgb((0,0,128));
+    padding: 10px 20px;
+    font-family: 'Handlee', cursive;
+    border-radius: 5px;
+
+}
+.icon-style{
+
+   /* background: #bb0aac;*/
+   background: #ff5a00;
+    color: white;
+    padding: 15px;
+    margin: 5px 0;
+}
+#features{
+
+    padding: 5px 10%;
+    background-color: #F8C4C8;
+}
+
+.features-col{
+    border: 1px solid #ff02c0;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 20px 0;
+    transition: .4s;
+}
+
+.features-col:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 6px 5px black;
+
+}
+
+
+#feedback{
+
+    background:#008080;
+    padding: 7% 10%;
+
+}
+.hr-style{
+   border: 5px dotted white;
+   border-bottom: none;
+   width: 50px;
+}
+
+.carousel-item{
+        padding: 7% 15%;
+        text-align: center;
+        font-style: italic;
+        font-size: 1.2rem;
+}
+
+.feedback-img{
+
+    width: 220px;
+    height: auto;
+}
+
+.carousel-indicators{
+
+    bottom: -20px;
+
+
+}
+
+footer{
+
+    padding: 1% 10%;
+  /*  background: #056676;*/
+    background: #BD2F2F;
+}
+
+footer a{
+    color: white;
+    margin: 0 10px;
+}
+
+footer a:hover{
+    color: black;
+}
+
+@media(max-width: 768px){
+    .nav-link{
+        background: rgba(0,0,0,0.7);
+    }
+
+    .banner-container h1{
+        font-size: 2.5rem;
+
+    }
+
+
+
+}
