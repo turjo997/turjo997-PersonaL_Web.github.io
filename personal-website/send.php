@@ -2,14 +2,13 @@
 <?php
 
 use PHPMailer\PHPMailer\PHPMailer;
-//require 'class.phpmailer.php';
+require_once "class.phpmailer.php";
+require_once "class.smtp.php";
+require_once "class.exception.php";
 
-
-//require 'class.smtp.php';
-
-require_once "PHPMailer/PHPMailer.php";
-require_once "PHPMailer/SMTP.php";
-require_once "PHPMailer/Exception.php";
+//require_once "PHPMailer/PHPMailer.php";
+//require_once "PHPMailer/SMTP.php";
+//require_once "PHPMailer/Exception.php";
 
 
 $mail=new PHPMailer(true);
