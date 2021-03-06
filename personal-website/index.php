@@ -127,7 +127,7 @@
                        </div>
                           <div class="row">
                              <div class="col-lg-4 text-center">
-                                 <img class = " d-block m-auto rounded-circle img-fluid"src="https://scontent.fdac5-2.fna.fbcdn.net/v/t1.0-1/p240x240/95659004_1198712097127198_8136623973845696512_n.jpg?_nc_cat=101&ccb=2&_nc_sid=7206a8&_nc_eui2=AeE5EMZZn4-KKOThMk1Ta3DjzT-87aiTc1zNP7ztqJNzXHvuJG92OSzDIXFXZk7N_jt5aztLL1A9PxyA42PF5pII&_nc_ohc=_1a7g-lKptMAX9WDcKj&_nc_ht=scontent.fdac5-2.fna&tp=6&oh=73864c22f2c89f3da93e8fc522d6fb75&oe=60342229" alt="">
+                                 <img class = " d-block m-auto rounded-circle img-fluid"src="images/propic.jpg" alt="">
 
                              </div>
 
