@@ -51,7 +51,7 @@ $result="";
 
 
       $result = '<div class="alert alert-success">
-                 <h5>Thankyou! for contacting us, We\'ll get back to you soon!</h5>
+                 <h5>Thankyou! for contacting us, I\'ll get back to you soon!</h5>
                </div>';
                echo "$result";
       
